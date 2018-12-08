@@ -1,3 +1,6 @@
+// www.smartelc.ir
+// M3R
+
 #define DDR DDRD
 #define PORT PORTD
 #define PIN PIND
